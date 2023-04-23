@@ -1,9 +1,3 @@
-# Herzlich Willkommen bei uns.
-Hier gibt es nichts zu sehen.
-Wir haben hier ein bisschen was zu lesen gesammelt, es ist aber nicht interessant.
-
-Bei Fragen wende dich an: service@wsrn.de
-
 # Los geht's
 Hallo zusammen,
 hier geht es um unsere kleine Doc Sammlung zu allen gemischten Themen.
