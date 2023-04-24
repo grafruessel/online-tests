@@ -1,13 +1,16 @@
-# Los geht's
-Hallo zusammen,
-hier geht es um unsere kleine Doc Sammlung zu allen gemischten Themen.
-## allaround tests
+# online checks list
+hi all,
+this is a list of useful online checks for websites, emails, dns and server
+we have a broad range from performance to security
+## global best practise
+Internet.nl is an initiative of the Internet community and the Dutch government
 https://en.internet.nl/
+security at its best
 https://www.hardenize.com/
 https://dnsspy.io/scan/
 ## wichtige Webseiten Performance Tests
 ### Google Webseiten Test
-https://web.dev
+https://pagespeed.web.dev/
 ### GTMetrix
 https://gtmetrix.com/
 ### Pingdom Speedtest
@@ -19,10 +22,6 @@ https://www.giftofspeed.com/gzip-test/
 ## Email / SMTP
 https://geekflare.com/de/smtp-testing-tools/
 https://tls.imirhil.fr/
-## DNS/SSL Checker
-https://www.ultratools.com/tools/dnsLookup
-https://dnschecker.org/
-https://www.experte.de/dns-check
 ## Mail Server Checker
 https://de.ssl-tools.net/mailservers
 https://www.secumail.de/mailserveranalyse/
@@ -32,6 +31,11 @@ http://multirbl.valli.org/lookup/
 https://spameatingmonkey.com/lookup
 ## IP Reputation
 https://talosintelligence.com/
+## DNS/SSL Checker
+https://www.ultratools.com/tools/dnsLookup
+https://dnschecker.org/
+https://www.experte.de/dns-check
+https://toolbox.googleapps.com/apps/dig/#ANY/
 ## SPF Checker
 https://www.spf-record.de/
 ## DMARC Analyser
@@ -40,11 +44,5 @@ https://us.dmarcian.com/xml-to-human-converter/
 https://dane.sys4.de/
 ## MTA-STS Checker
 https://esmtp.email/tools/mta-sts/
-## Google G Suite Tester
-https://toolbox.googleapps.com/apps/dig/#ANY/
 ## DNSSEC Checker/Debugger
 https://dnssec-debugger.verisignlabs.com/
-## Web Download mit wget
-```
-wget -U 'Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.6) Gecko/20070802 SeaMonkey/1.1.4' --mirror -p --html-extension --convert-links -e robots=off -P . https://wsrn.de
-```
